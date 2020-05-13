@@ -1,0 +1,24 @@
+.isUnknown {
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    font-size: 30px;
+}
+.isBusy {
+    width: 100px;
+    height: 100px;
+    background-color: yellowgreen;
+    font-size: 30px;
+}
+.isEmpty {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+}
+.isGoal {
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    font-size: 30px;
+}
